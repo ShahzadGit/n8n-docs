@@ -6,7 +6,7 @@ contentType: tutorial
 
 # The very quick quickstart
 
-This quickstart gets you started using n8n as quickly as possible. Its allows you to try out the UI and introduces two key features: [workflow templates](/glossary.md#template-n8n) and [expressions](/glossary.md#expression-n8n). It doesn't include detailed explanations or explore concepts in-depth.
+This quickstart gets you started using n8n as quickly as possible. It allows you to try out the UI and introduces two key features: [workflow templates](/glossary.md#template-n8n) and [expressions](/glossary.md#expression-n8n). It doesn't include detailed explanations or explore concepts in-depth.
 
 In this tutorial, you will:
 
